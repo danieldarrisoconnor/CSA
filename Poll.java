@@ -22,6 +22,7 @@ public class Poll extends JFrame
 
   public static void main(String[] args)
   {
+    
     Poll w = new Poll();
     w.setBounds(300, 300, 400, 400);
     w.setDefaultCloseOperation(EXIT_ON_CLOSE);
